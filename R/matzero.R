@@ -1,4 +1,3 @@
-
 #' Title matzero
 #'
 #' @param mat matrix of spectra
